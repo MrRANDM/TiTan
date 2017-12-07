@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/mr/LaiProject/workplace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1585245577.index
+1234244087.index
+3002760456.index
+556214159.index
+2066521133.index
+1507222736.index
